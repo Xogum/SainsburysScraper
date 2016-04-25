@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sainsburys Scraper</string>
+    <string name="main_no_items">No values to display</string>
+</resources>
